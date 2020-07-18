@@ -11,7 +11,7 @@ div.card1 {
 }
 
 div.card {
-  box-shadow: 0 4px 8px 0 white, 0 4px 8px 0 white;
+  box-shadow: 10px 10px blue;
 }
 
 hr {
