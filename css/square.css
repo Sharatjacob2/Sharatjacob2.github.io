@@ -10,5 +10,5 @@ div.card {
   box-shadow: 0 4px 8px 0 white, 0 4px 8px 0 white;
 }
 hr {
-  border-top: 1px solid black;
+  border: 1px solid black;
 }
