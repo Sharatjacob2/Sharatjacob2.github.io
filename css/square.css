@@ -6,9 +6,6 @@ a:visited {
   text-decoration: none;
 }
 
-a:hover, a:active {
-  background-color: red;
-}
 div.card {
-  box-shadow: 10px 10px;
+  box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
 }
