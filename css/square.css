@@ -23,11 +23,3 @@ h1.topguy {
 h3.topguy {
   text-shadow: 2px 2px blue;
 }
-.vl {
-  border-left: 10px solid black;
-  height: 500px;
-  position: absolute;
-  left: 50%;
-  margin-left: -3px;
-  top: 0;
-}
