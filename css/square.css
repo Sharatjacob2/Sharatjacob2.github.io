@@ -17,3 +17,9 @@ div.card {
 hr {
   border: 1px solid black;
 }
+h1.topguy {
+  text-shadow: 2px 2px blue;
+}
+h3.topguy {
+  text-shadow: 2px 2px blue;
+}
