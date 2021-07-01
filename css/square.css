@@ -26,3 +26,9 @@ h3.topguy {
 div.a {
   font-size: 15px;
 }
+
+.righto
+{
+  position: relative;
+  left: 10px;
+}
